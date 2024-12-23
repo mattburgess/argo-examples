@@ -1,0 +1,2 @@
+# argo-examples
+ArgoCD examples
